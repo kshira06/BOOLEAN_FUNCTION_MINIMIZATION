@@ -32,7 +32,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-
 ```
 
   module exp2(a,b,c,d,w,x,y,z,f1,f2);
@@ -54,28 +53,27 @@ Hardware – PCs, Cyclone II , USB flasher
   assign f2=y1|y2|y3|y4|y5;
   endmodule
 ```
-Developed by: Kshira K
 
-Register Number: 212224040166
+Developed by : Kshira K
 
-
-**RTL realization**
-
-**Output:**
-
+Register Number :212224040166
+  
 **Truth Table**
+i)F1
+![image](https://github.com/user-attachments/assets/34c74a5d-4e82-4741-a6e2-bf0de1ade9a8)
 
-i) F1
-![image](https://github.com/user-attachments/assets/e7db0fba-d7d8-4425-a6da-fac3a5d34233)
 
-ii) F2
-![image](https://github.com/user-attachments/assets/19f5c359-1631-4dd3-843f-880e4e2da32f)
+ii)F2
+![image](https://github.com/user-attachments/assets/79008ed0-2390-4424-b204-95f2bd1bee16)
+
+
 
 **RTL**
-![image](https://github.com/user-attachments/assets/e6992d5f-a547-4543-8d73-3d0f0ba8a1e8)
+![image](https://github.com/user-attachments/assets/e421164b-8abc-4f36-8f83-2a3e9ef35532)
 
-**Timing Diagram**
-![image](https://github.com/user-attachments/assets/45f44c64-90dd-4db9-ad43-0d76e17acc5f)
+**Waveform**
+![WhatsApp Image 2025-04-16 at 03 41 16_74967713](https://github.com/user-attachments/assets/ac2a1b7e-06d0-4f7f-bb80-b40f5403899f)
+
 
 **Result:**
 
